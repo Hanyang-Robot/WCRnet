@@ -23,7 +23,10 @@ conda env create -f wc_ratio.yaml
 conda activate wc_ratio
 ```
 
-## 2. Turn on Jupyter Notebook
+## 2. Run the Jupyter Notebook and feel free to use the implementation code!
++ If you want to use the WCRnet code, run "deep_learning_WCRnet.ipynb."
++ If you want to use the machine learning code, run "machine_learning_[model name].ipynb."
+  
 ```c
 jupyter notebook
 ```
