@@ -3,21 +3,22 @@ We propose a deep learning framework to estimate WCR using a cost-effective Freq
 
 ## A deep learning framework to estimate water-to-cement ratio in mortar exploiting frequency domain reflectometry sensors
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950061825000431)
+
 ![Image](https://github.com/user-attachments/assets/fca91be4-2c98-4b59-ab77-9b2aed185d4f)
 
-# 1. Clone Code
+## 1. Clone Code
 ```c
 git clone https://github.com/Hanyang-Robot/WCRnet.git
 cd WCRnet/
 ```
 
-# 2. Create Conda env
+## 2. Create Conda env
 ```c
 conda env create -f wc_ratio.yaml
 conda activate wc_ratio
 ```
 
-# 3. Turn on Jupyter Notebook
+## 3. Turn on Jupyter Notebook
 ```c
 jupyter notebook
 ```
