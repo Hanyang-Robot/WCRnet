@@ -1,5 +1,6 @@
 # WCRnet
-We propose a deep learning framework to estimate WCR using a cost-effective Frequency Domain Reflectometry (FDR) sensor and a deep model, WCRnet, which leverages residual connections. This repository provides TensorFlow-Keras code for training and testing WCRnet with deep learning on the FDR sensor data, which represents the physical and electrical properties of mortar.
+We propose a deep learning framework to estimate WCR using a cost-effective Frequency Domain Reflectometry (FDR) sensor and a deep model, **WCRnet**, which leverages residual connections. This repository provides TensorFlow-Keras code for training and testing WCRnet with deep learning on the FDR sensor data, which represents the physical and electrical properties of mortar.
+PDF (https://www.sciencedirect.com/science/article/pii/S0950061825000431)
 
 ![Image](https://github.com/user-attachments/assets/fca91be4-2c98-4b59-ab77-9b2aed185d4f)
 
@@ -20,7 +21,7 @@ conda activate wc_ratio
 jupyter notebook
 ```
 
-*Note* if you use the WCRnet training algorithms in your work, please cite the following paper:
+**Note** if you use the WCRnet Framework in your work, please cite the following paper:
 ```c
 @article{yu2025deep,
   title={A deep learning framework to estimate water-to-cement ratio in mortar exploiting frequency domain reflectometry sensors},
