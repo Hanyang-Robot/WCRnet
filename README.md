@@ -19,3 +19,16 @@ conda activate wc_ratio
 ```c
 jupyter notebook
 ```
+
+*Note* if you use the WCRnet training algorithms in your work, please cite the following paper:
+```c
+@article{yu2025deep,
+  title={A deep learning framework to estimate water-to-cement ratio in mortar exploiting frequency domain reflectometry sensors},
+  author={Yu, Seunghwan and Park, Homin and Ko, Byungjin and Lee, Han-Seung and Park, Taejoon and Yoon, Jong-Wan},
+  journal={Construction and Building Materials},
+  volume={462},
+  pages={139896},
+  year={2025},
+  publisher={Elsevier}
+}
+```
